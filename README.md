@@ -30,7 +30,7 @@ src="https://img.shields.io/badge/git-grey?labelColor=greu&logo=git&logoColor=wh
 
 ## About the Application
 
-**Ecoleta** Ecoleta is a way to connect companies and entities that collect organic and inorganic waste to people who need to dispose of their waste in an ecological way.
+**Ecoleta** is a way to connect companies and entities that collect organic and inorganic waste to people who need to dispose of their waste in an ecological way.
 
 This v1.0 of the application was developed during **Next Level Week #1**, a project from Rocketseat.
 
